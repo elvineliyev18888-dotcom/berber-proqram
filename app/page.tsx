@@ -114,6 +114,11 @@ export default function CustomerHome() {
             <h2 className="text-4xl md:text-5xl font-black text-white tracking-wide mb-3 drop-shadow-md">
               Bərbər Növbə
             </h2>
+            <div className="flex-1 flex flex-col items-center justify-center text-center">
+            <div className="text-6xl mb-4 animate-bounce">💈</div>
+            <h2 className="text-4xl md:text-5xl font-black text-white tracking-wide mb-3 drop-shadow-md">
+              Sarı Bərbər
+            </h2>
             <p className="text-sm md:text-base text-gray-300 font-medium mb-8 max-w-sm drop-shadow">
               Öz randevularınızı görmək üçün mobil nömrənizi daxil edin
             </p>
